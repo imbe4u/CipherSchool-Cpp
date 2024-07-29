@@ -14,5 +14,5 @@ int main(){
 // p=&a;
 // cout<<p<<*p;
     swap(&a,&b);
-    cout<<"Valued swap between a and b are : "<<a<<" "<<b;
+    cout<<"Valued swap between a and b are : "<<a<<" "<<b<<endl;
 }
